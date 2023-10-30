@@ -1,5 +1,5 @@
 
-# <h1 align="center"> Recipe Management System API with Complete AuthToken and AWS EC2 Instance </h1>
+# <h1 align="center"> Recipe Management System API with AWS </h1>
 ___ 
 <p align="center">
     <a href="Java url">
